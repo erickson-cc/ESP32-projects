@@ -1,0 +1,2 @@
+COMPILER=~/.arduino15/packages/esp32/tools/esp-x32/2601/bin/xtensa-esp32-elf-gcc
+AR=~/.arduino15/packages/esp32/tools/esp-x32/2601/bin/xtensa-esp32-elf-ar
